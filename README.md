@@ -12,7 +12,7 @@ Thanks for checking out this coding challenge.
 
 ## The challenge
 
-Build a sign-up form for NEONCORE, a fictional competitive-gaming network, and get it looking as close to the design as possible.
+Build a sign-up form for NEONCORE, a competitive-gaming network, and get it looking as close to the design as possible.
 
 Most of the work is in the form's states. Every field validates, the password field has a strength meter and a show/hide button, and the submit button has loading and success states. Building all of that so it works for keyboard and screen reader users is the real practice here.
 
